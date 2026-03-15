@@ -5,4 +5,5 @@ Segmentation ground truth of the section statuses of the Napoleonic land registr
 # Contributors
 
 Bibracte EPCC : J.CACOT, H.SASCHE
+
 UMR CNRS/uB 6282 Biogéosciences Université Bourgogne Europe : V.SOUDAIS
