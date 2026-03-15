@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Napoleonic_Land_Registry
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Jean
+    family-names: Cacot
+    affiliation: BIBRACTE EPCC
+    email: jean.cacot@bibracte.fr
+  - given-names: Vincent
+    family-names: Soudais
+    affiliation: Biogéosciences
+  - given-names: Hendrick
+    family-names: Sasche
+    affiliation: BIBRACTE EPCC
+repository-code: >-
+  https://github.com/Octa-jean/Napoleonic_Land_Registry/tree/main
+abstract: >
+  Segmentation ground truth of the section statuses of the
+  Napoleonic land registry made using eScriptorium & Kraken
+  for various villages in Morvan.
+license: CC-BY-SA-4.0
