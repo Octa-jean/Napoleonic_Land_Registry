@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-03-03T13:14:14.774750+00:00</Created>
+        <LastChange>2026-03-05T13:29:31.039269+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAD058_3P010_1_008_rigth.jpg" imageWidth="3905" imageHeight="5715">
+    <TextRegion id="eSc_textblock_50b70c32"  custom="structure {type:Column_1;}">
+      <Coords points="176,364 180,546 2140,527 2163,284"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b16c9f84"  custom="structure {type:Column_1;}">
+      <Coords points="1822,643 1822,806 2088,806 2088,643"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9dc8daa1"  custom="structure {type:Column_1;}">
+      <Coords points="2369,624 2369,802 2540,802 2540,624"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_24f9400b"  custom="structure {type:Column_1;}">
+      <Coords points="2555,573 2555,649 2995,649 2995,573"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_db6d6d1a"  custom="structure {type:Column_3;}">
+      <Coords points="37,602 37,2514 159,2514 159,602"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a824b702"  custom="structure {type:Column_3;}">
+      <Coords points="957,602 998,2397 1079,2397 1079,602"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7789469d"  custom="structure {type:Column_3;}">
+      <Coords points="1201,597 1201,2473 1557,2473 1557,597"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_caf41e49"  custom="structure {type:Column_3;}">
+      <Coords points="1821,851 1862,2682 1943,2687 1943,851"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_80645d6b"  custom="structure {type:Column_3;}">
+      <Coords points="2045,851 2045,2814 2142,2814 2111,851"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_49424d3d"  custom="structure {type:Column_3;}">
+      <Coords points="2370,856 2396,2717 2492,2687 2467,856"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2897703d"  custom="structure {type:Column_3;}">
+      <Coords points="2559,688 2595,2920 2711,2910 2660,688"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7de63fc1"  custom="structure {type:Column_3;}">
+      <Coords points="2894,688 2951,3439 3052,3414 3001,688"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_56fd3908"  custom="structure {type:Column_4;}">
+      <Coords points="184,602 184,2387 926,2387 926,602"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a4e8aa6f"  custom="structure {type:Column_4;}">
+      <Coords points="1099,602 1099,2346 1191,2346 1191,602"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_81243e2a"  custom="structure {type:Column_4;}">
+      <Coords points="1582,597 1582,2590 1806,2590 1806,597"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4758939f"  custom="structure {type:Column_4;}">
+      <Coords points="1954,877 1979,2626 2034,2600 2014,892"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a6f05362"  custom="structure {type:Column_4;}">
+      <Coords points="2126,643 2157,2422 2355,2366 2355,643"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_516921c8"  custom="structure {type:Column_4;}">
+      <Coords points="2482,856 2482,2356 2645,2356 2645,856"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_110dc566"  custom="structure {type:Column_4;}">
+      <Coords points="2482,856 2523,2402 2569,2371 2549,866"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a96bc5c0"  custom="structure {type:Column_4;}">
+      <Coords points="2686,694 2721,2290 2889,2219 2889,694"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_992e0caf"  custom="structure {type:Column_4;}">
+      <Coords points="3021,587 3047,1756 3342,1710 3342,587"/>
+    </TextRegion>
+  </Page>
+</PcGts>
