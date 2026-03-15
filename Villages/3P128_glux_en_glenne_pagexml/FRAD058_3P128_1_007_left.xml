@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-02-24T08:20:04.285129+00:00</Created>
+        <LastChange>2026-03-05T11:28:24.052917+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAD058_3P128_1_007_left.jpg" imageWidth="3666" imageHeight="5607">
+    <TextRegion id="eSc_textblock_4b0b87be"  custom="structure {type:Column_1;}">
+      <Coords points="427,408 427,547 1852,547 1852,408"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_99c0593b"  custom="structure {type:Column_3;}">
+      <Coords points="400,611 400,817 516,817 516,611"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_febc4142"  custom="structure {type:Column_4;}">
+      <Coords points="629,580 629,842 1255,842 1255,586"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3b3ff3bd"  custom="structure {type:Column_3;}">
+      <Coords points="1295,594 1295,842 1394,842 1394,594"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a88017dc"  custom="structure {type:Column_4;}">
+      <Coords points="1423,604 1423,832 1507,832 1507,604"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_efaa6cc6"  custom="structure {type:Column_3;}">
+      <Coords points="1540,610 1540,819 1881,819 1881,610"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e24bdeb8"  custom="structure {type:Column_4;}">
+      <Coords points="1933,610 1933,836 2137,836 2137,610"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_755cf1ee"  custom="structure {type:Column_1;}">
+      <Coords points="2185,610 2185,821 2437,821 2437,610"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_91f24533"  custom="structure {type:Column_4;}">
+      <Coords points="2478,648 2478,825 2668,825 2668,648"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bfd7a6a7"  custom="structure {type:Column_1;}">
+      <Coords points="2711,621 2711,796 2916,796 2916,621"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_eebe0df7"  custom="structure {type:Column_4;}">
+      <Coords points="3376,633 3376,819 3606,819 3606,633"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_46df8191"  custom="structure {type:Column_1;}">
+      <Coords points="2953,608 2953,669 3327,669 3327,608"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e724132c"  custom="structure {type:Column_3;}">
+      <Coords points="2923,728 2927,834 2991,834 2991,728"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_699ac44b"  custom="structure {type:Column_4;}">
+      <Coords points="3062,722 3066,840 3212,840 3212,722"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_13d41fff"  custom="structure {type:Column_3;}">
+      <Coords points="3277,716 3277,837 3339,837 3339,716"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_1d4bef9b" >
+        <Baseline points="2924,640 3361,640"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_05eda904" >
+        <Baseline points="1949,683 2118,684"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ddddc45f" >
+        <Baseline points="2960,673 3311,670"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b7ae572f" >
+        <Baseline points="3425,696 3568,692"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee972c5b" >
+        <Baseline points="1989,737 2081,737"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04700ba8" >
+        <Baseline points="2173,746 2439,745"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0ca9b0e3" >
+        <Baseline points="2472,748 2662,748"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_28dabf12" >
+        <Baseline points="2701,746 2881,747"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e28f125" >
+        <Baseline points="2923,755 2990,755"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc437b26" >
+        <Baseline points="3272,749 3353,751"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_958cc725" >
+        <Baseline points="3457,739 3519,740"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45e30e7b" >
+        <Baseline points="3066,766 3205,770"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27c30243" >
+        <Baseline points="1953,780 2130,785"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92345b09" >
+        <Baseline points="2933,780 2984,777"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6dc72926" >
+        <Baseline points="3293,779 3337,777"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a30753fd" >
+        <Baseline points="2922,806 3012,809"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2cd0bf6" >
+        <Baseline points="3060,818 3192,823"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_59d4f74a" >
+        <Baseline points="3276,807 3341,808"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22135bae" >
+        <Baseline points="3410,796 3572,791"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9fde2109" >
+        <Baseline points="2918,835 3008,837"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e102b9b" >
+        <Baseline points="3276,839 3356,836"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd3ef1be" >
+        <Baseline points="495,516 1830,520"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34473813" >
+        <Baseline points="439,685 504,687"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33bbc272" >
+        <Baseline points="433,776 514,776"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_15e8c4a1" >
+        <Baseline points="716,672 1111,677"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa383aaf" >
+        <Baseline points="692,734 1142,734"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45587421" >
+        <Baseline points="749,788 1065,796"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8142842a" >
+        <Baseline points="1328,687 1398,691"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6c74730" >
+        <Baseline points="1311,749 1387,746"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01837a40" >
+        <Baseline points="1310,791 1401,790"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8871222f" >
+        <Baseline points="1442,791 1499,791"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1332a273" >
+        <Baseline points="1441,736 1495,737"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea1cbe6a" >
+        <Baseline points="1439,676 1478,680"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df55c731" >
+        <Baseline points="1588,688 1879,690"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_564e4198" >
+        <Baseline points="1582,738 1858,737"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3dad8ac2" >
+        <Baseline points="1624,792 1812,790"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

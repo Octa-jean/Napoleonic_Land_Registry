@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-03-03T13:15:33.146413+00:00</Created>
+        <LastChange>2026-03-05T13:20:59.944372+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAD058_3P128_1_005_left.jpg" imageWidth="3650" imageHeight="5595">
+    <TextRegion id="eSc_textblock_1b3e907b"  custom="structure {type:Column_1;}">
+      <Coords points="452,321 452,518 2622,518 2622,321"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_709279cf"  custom="structure {type:Column_1;}">
+      <Coords points="2956,580 2956,669 3388,669 3388,580"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c58ae67f"  custom="structure {type:Column_1;}">
+      <Coords points="2732,651 2732,763 2932,763 2932,651"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d920d394"  custom="structure {type:Column_1;}">
+      <Coords points="2207,618 2207,808 2471,808 2471,618"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_611ef315"  custom="structure {type:Column_3;}">
+      <Coords points="447,575 426,3613 525,3610 558,575"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4501510c"  custom="structure {type:Column_3;}">
+      <Coords points="1319,575 1319,3836 1412,3839 1445,575"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7af22dc2"  custom="structure {type:Column_3;}">
+      <Coords points="1561,564 1561,3736 1923,3736 1923,564"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f23cf9c3"  custom="structure {type:Column_3;}">
+      <Coords points="2196,848 2196,3993 2301,3993 2301,848"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_803ee2af"  custom="structure {type:Column_3;}">
+      <Coords points="2406,842 2406,3899 2461,3907 2475,842"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3dbb07dc"  custom="structure {type:Column_3;}">
+      <Coords points="2748,837 2748,4366 2807,4358 2832,837"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5a8218cd"  custom="structure {type:Column_3;}">
+      <Coords points="2947,695 2947,4088 3031,4088 3031,695"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_163f42f0"  custom="structure {type:Column_3;}">
+      <Coords points="3278,680 3278,4046 3371,4050 3383,680"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7c353dda"  custom="structure {type:Column_4;}">
+      <Coords points="590,572 590,3552 1279,3552 1279,572"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_80a2b93d"  custom="structure {type:Column_4;}">
+      <Coords points="1465,572 1465,3547 1517,3547 1517,572"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5b494372"  custom="structure {type:Column_4;}">
+      <Coords points="1973,601 1973,3600 2149,3600 2149,601"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2c5b6a40"  custom="structure {type:Column_4;}">
+      <Coords points="2320,862 2320,3799 2377,3799 2377,862"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ca06bf07"  custom="structure {type:Column_4;}">
+      <Coords points="2506,601 2506,3856 2677,3856 2677,601"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_96c9b106"  custom="structure {type:Column_4;}">
+      <Coords points="2872,853 2834,3871 2910,3856 2910,853"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a5663a64"  custom="structure {type:Column_4;}">
+      <Coords points="3081,701 3081,3794 3242,3794 3242,701"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ec2341cc"  custom="structure {type:Column_4;}">
+      <Coords points="3423,596 3423,4023 3613,4023 3613,596"/>
+    </TextRegion>
+  </Page>
+</PcGts>
