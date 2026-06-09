@@ -1,8 +1,23 @@
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 title: Napoleonic_Land_Registry
 url: https://github.com/Octa-jean/Napoleonic_Land_Registry
-authors: [Jean CACOT, Hendrick SASCHE; Vincent SOUDAIS]
-institutions: [Bibracte EPCC ; Universitée Bourgogne Europe]
+authors: 
+  - name : Jean
+  - Surname : Cacot
+  - Roles: 
+    - digitization
+    - support
+  - name : Hendrick
+  - Surname : Sasche
+  - Roles: 
+    - digitization
+  - name : Vincent
+  - Surname : Soudais
+  - Roles: 
+    - digitization
+    - support
+  
+  institutions: Bibracte EPCC ; Universitée Bourgogne Europe
 description: >-
   Segmentation ground truth of the section statuses of the Napoleonic land
   registry made using eScriptorium &amp; Kraken for the villages of :
@@ -14,8 +29,7 @@ description: >-
   3P63_01 : Fâchin
 
   3P140_01 : Larochemillay
-project-website: >-
-  https://github.com/Octa-jean/Napoleonic_Land_Registry/blob/1e0e4d436ff3f1b5bc6d8d9e4bd45fa991b46ca8/CITATION.cff
+project-website:   
 language:
   - fra
 production-software: eScriptorium + Kraken
@@ -37,7 +51,7 @@ volume:
   - metric: pages
     count: 50
 citation-file-link: >-
-  https://github.com/Octa-jean/Napoleonic_Land_Registry/blob/1e0e4d436ff3f1b5bc6d8d9e4bd45fa991b46ca8/CITATION.cff
+ https://github.com/Octa-jean/Napoleonic_Land_Registry/blob/main/CITATION.cff
 transcription-guidelines: |-
   Segmentation of columns following these rules :
   - Area 1 -> Column_1 : title
