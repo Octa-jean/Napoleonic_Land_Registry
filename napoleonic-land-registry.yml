@@ -1,8 +1,8 @@
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 title: Napoleonic_Land_Registry
 url: https://github.com/Octa-jean/Napoleonic_Land_Registry
-authors: []
-institutions: []
+authors: [Jean CACOT, Hendrick SASCHE; Vincent SOUDAIS]
+institutions: [Bibracte EPCC ; Universitée Bourgogne Europe]
 description: >-
   Segmentation ground truth of the section statuses of the Napoleonic land
   registry made using eScriptorium &amp; Kraken for the villages of :
